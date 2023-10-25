@@ -1,0 +1,1 @@
+This is my first attempt at creating a landing page from scratch. With much help from The Odin Project and also google.
